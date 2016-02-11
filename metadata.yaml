@@ -1,0 +1,36 @@
+_repo: Kaksi-partiopoikaa_50114
+contributor:
+  translator:
+    agent_name: Inha, Into Konrad
+    aliases:
+    - Nystrom, Into Konrad
+    - Inha, I. K. (Into Konrad)
+    - Nyström, Into Konrad
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '4411'
+    url: http://www.gutenberg.org/2009/agents/4411
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Thompson-Seton, Ernest
+    - Seton-Thomson, Ernest
+    - Seton, Wolf
+    - Seton-Thompson, Ernest
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: ''
+gutenberg_issued: '2015-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50114'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Kaksi partiopoikaa
+url: http://www.gutenberg.org/ebooks/50114
